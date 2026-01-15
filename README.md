@@ -1,4 +1,4 @@
-# Snowflake-Native Data Engineering Project
+# Snowflake-Native Data Engineering Project ❄️
 
 This project demonstrates a hands-on implementation of an end-to-end data engineering pipeline built entirely inside Snowflake.
 
@@ -9,6 +9,8 @@ The goal of this project is to transform raw hotel booking data into clean, anal
 - Bronze Layer: Raw data ingestion using Snowflake Stages & COPY INTO
 - Silver Layer: Data cleaning, validation, and transformation
 - Gold Layer: Analytics-ready tables and aggregations
+ 
+<img width="1902" height="1115" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/b963dbc0-19db-4745-bfd7-452914710374" />
 
 ## Tech Stack
 - Snowflake
